@@ -1,2 +1,5 @@
 voila
 ipywidgets==7.5.1
+IPython
+matplotlib
+numpy
