@@ -3,7 +3,7 @@ ipywidgets==7.5.1
 IPython
 matplotlib
 numpy
-PIL
+Pillow
 pytesseract
 os
 plotly
