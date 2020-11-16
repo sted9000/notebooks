@@ -4,6 +4,7 @@ IPython
 matplotlib
 numpy
 Pillow
+tesseract-ocr
 pytesseract
 os
 plotly
